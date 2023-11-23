@@ -1,6 +1,10 @@
-# jbang: scripting in java
+![JBang](https://www.jbang.dev/documentation/guide/latest/_images/jbang_logo.svg)
+
+
+# JBang: scripting in java
 Using Jbang scripting for running Java apps.
 
+## Examples
 ```bash
 ➜  jbang-scripting-java git:(main)✗ > sdk version
 
